@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HoTroHocTap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="title_activity_dangkikhoahoc">dangkikhoahocActivity</string>
+    <string name="notify_empty_name">Không để trống</string>
+</resources>
